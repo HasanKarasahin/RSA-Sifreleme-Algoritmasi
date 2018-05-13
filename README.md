@@ -5,8 +5,8 @@
 Anahtar Üretimi : 
 
 1-) n=p*q ve Q=(p-1)*(q-1) </br>
-2-) 1<e<Q ve ebob(e,Q)=1 şartlarına uyan e belirlenir. 
-3-) 1<d<Q ve e.d ≡ 1 (mod Q) şartlarını saglayan d belirlenir
+2-) 1<e<Q ve ebob(e,Q)=1 şartlarına uyan e belirlenir. </br>
+3-) 1<d<Q ve e.d ≡ 1 (mod Q) şartlarını saglayan d belirlenir </br>
 
 | Genel Anahtarlar | Özel Anahtar  |
 | -------------    | :------------:|
