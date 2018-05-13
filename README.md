@@ -2,6 +2,19 @@
 
 Çalışması:
 
+Anahtar Üretimi : 
+
+1-) n=p*q ve Q=(p-1)*(q-1)
+2-) 1<e<Q ve ebob(e,Q)=1 şartlarına uyan e belirlenir. 
+3-) 1<d<Q ve e.d ≡ 1 (mod Q) şartlarını saglayan d belirlenir
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 | 
+
+
 Yeterince büyük iki adet asal sayı seçilir: Bu sayılar örneğimizde p ve q olsunlar.
 n=pq hesaplanır. Buradaki n sayısı iki asal sayının çarpımıdır ve hem umumî hem de hususî şifreler için taban (modulus) olarak kabul eder.
 Totient fonksiyonu hesaplanır. Bu örnek için çarpanların ikisi de asal sayı olduğu için φ(n) = (p-1)(q-1) olarak bulunur.
