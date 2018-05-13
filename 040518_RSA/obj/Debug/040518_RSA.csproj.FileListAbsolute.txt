@@ -1,0 +1,9 @@
+C:\Users\pc\Desktop\GoruntuIsleme\040518_RSA\040518_RSA\bin\Debug\040518_RSA.exe.config
+C:\Users\pc\Desktop\GoruntuIsleme\040518_RSA\040518_RSA\obj\Debug\040518_RSA.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\GoruntuIsleme\040518_RSA\040518_RSA\obj\Debug\_040518_RSA.Form1.resources
+C:\Users\pc\Desktop\GoruntuIsleme\040518_RSA\040518_RSA\obj\Debug\_040518_RSA.Properties.Resources.resources
+C:\Users\pc\Desktop\GoruntuIsleme\040518_RSA\040518_RSA\obj\Debug\040518_RSA.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\GoruntuIsleme\040518_RSA\040518_RSA\bin\Debug\040518_RSA.exe
+C:\Users\pc\Desktop\GoruntuIsleme\040518_RSA\040518_RSA\bin\Debug\040518_RSA.pdb
+C:\Users\pc\Desktop\GoruntuIsleme\040518_RSA\040518_RSA\obj\Debug\040518_RSA.exe
+C:\Users\pc\Desktop\GoruntuIsleme\040518_RSA\040518_RSA\obj\Debug\040518_RSA.pdb
