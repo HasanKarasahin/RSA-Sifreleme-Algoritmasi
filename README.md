@@ -4,7 +4,7 @@
 
 Anahtar Üretimi : 
 
-1-) n=p*q ve Q=(p-1)*(q-1) </br>
+1-) n=p\*q ve Q=(p-1)*(q-1) </br>
 2-) 1<e<Q ve ebob(e,Q)=1 şartlarına uyan e belirlenir. </br>
 3-) 1<d<Q ve e.d ≡ 1 (mod Q) şartlarını saglayan d belirlenir </br>
 
@@ -14,6 +14,11 @@ Anahtar Üretimi :
 
 
 <h1> Hasan Karaşahin </h1>
+
+*
+\*
+/*
+
 
 Yeterince büyük iki adet asal sayı seçilir: Bu sayılar örneğimizde p ve q olsunlar.
 n=pq hesaplanır. Buradaki n sayısı iki asal sayının çarpımıdır ve hem umumî hem de hususî şifreler için taban (modulus) olarak kabul eder.
