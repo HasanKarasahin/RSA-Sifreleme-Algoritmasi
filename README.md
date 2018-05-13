@@ -9,9 +9,11 @@ Anahtar Üretimi :
 3-) 1<d<Q ve e.d ≡ 1 (mod Q) şartlarını saglayan d belirlenir </br>
 
 | Genel Anahtarlar | Özel Anahtar  |
-| -------------    | :------------:|
+| :-------------:  | :------------:|
 |      n,e         | 		d	   |
 
+
+<h1> Hasan Karaşahin </h1>
 
 Yeterince büyük iki adet asal sayı seçilir: Bu sayılar örneğimizde p ve q olsunlar.
 n=pq hesaplanır. Buradaki n sayısı iki asal sayının çarpımıdır ve hem umumî hem de hususî şifreler için taban (modulus) olarak kabul eder.
