@@ -8,11 +8,9 @@ Anahtar Üretimi :
 2-) 1<e<Q ve ebob(e,Q)=1 şartlarına uyan e belirlenir. 
 3-) 1<d<Q ve e.d ≡ 1 (mod Q) şartlarını saglayan d belirlenir
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 | 
+| Genel Anahtarlar | Özel Anahtar  |
+| -------------    | :------------:|
+| n,e              | 		d	   |
 
 
 Yeterince büyük iki adet asal sayı seçilir: Bu sayılar örneğimizde p ve q olsunlar.
