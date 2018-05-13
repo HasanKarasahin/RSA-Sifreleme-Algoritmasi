@@ -10,7 +10,7 @@ Anahtar Üretimi :
 
 | Genel Anahtarlar | Özel Anahtar  |
 | -------------    | :------------:|
-| n,e              | 		d	   |
+|      n,e         | 		d	   |
 
 
 Yeterince büyük iki adet asal sayı seçilir: Bu sayılar örneğimizde p ve q olsunlar.
