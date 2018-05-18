@@ -120,21 +120,162 @@
   <metadata name="grb_gonderici.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
+  <data name="&gt;&gt;txt_sifrelemeSonuc.Name" xml:space="preserve">
+    <value>txt_sifrelemeSonuc</value>
+  </data>
+  <data name="&gt;&gt;txt_sifrelemeSonuc.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txt_sifrelemeSonuc.Parent" xml:space="preserve">
+    <value>grb_gonderici</value>
+  </data>
+  <data name="&gt;&gt;txt_sifrelemeSonuc.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;lbl_sifrelemeSonucu.Name" xml:space="preserve">
+    <value>lbl_sifrelemeSonucu</value>
+  </data>
+  <data name="&gt;&gt;lbl_sifrelemeSonucu.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_sifrelemeSonucu.Parent" xml:space="preserve">
+    <value>grb_gonderici</value>
+  </data>
+  <data name="&gt;&gt;lbl_sifrelemeSonucu.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;txt_ascii0.Name" xml:space="preserve">
+    <value>txt_ascii0</value>
+  </data>
+  <data name="&gt;&gt;txt_ascii0.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txt_ascii0.Parent" xml:space="preserve">
+    <value>grb_gonderici</value>
+  </data>
+  <data name="&gt;&gt;txt_ascii0.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;txt_ascii.Name" xml:space="preserve">
+    <value>txt_ascii</value>
+  </data>
+  <data name="&gt;&gt;txt_ascii.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txt_ascii.Parent" xml:space="preserve">
+    <value>grb_gonderici</value>
+  </data>
+  <data name="&gt;&gt;txt_ascii.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;lbl_ascii.Name" xml:space="preserve">
+    <value>lbl_ascii</value>
+  </data>
+  <data name="&gt;&gt;lbl_ascii.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_ascii.Parent" xml:space="preserve">
+    <value>grb_gonderici</value>
+  </data>
+  <data name="&gt;&gt;lbl_ascii.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;lbl_ascii0.Name" xml:space="preserve">
+    <value>lbl_ascii0</value>
+  </data>
+  <data name="&gt;&gt;lbl_ascii0.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_ascii0.Parent" xml:space="preserve">
+    <value>grb_gonderici</value>
+  </data>
+  <data name="&gt;&gt;lbl_ascii0.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;txt_acikMetin.Name" xml:space="preserve">
+    <value>txt_acikMetin</value>
+  </data>
+  <data name="&gt;&gt;txt_acikMetin.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txt_acikMetin.Parent" xml:space="preserve">
+    <value>grb_gonderici</value>
+  </data>
+  <data name="&gt;&gt;txt_acikMetin.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;lbl_acikMetin.Name" xml:space="preserve">
+    <value>lbl_acikMetin</value>
+  </data>
+  <data name="&gt;&gt;lbl_acikMetin.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_acikMetin.Parent" xml:space="preserve">
+    <value>grb_gonderici</value>
+  </data>
+  <data name="&gt;&gt;lbl_acikMetin.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;btn_sifrele.Name" xml:space="preserve">
+    <value>btn_sifrele</value>
+  </data>
+  <data name="&gt;&gt;btn_sifrele.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_sifrele.Parent" xml:space="preserve">
+    <value>grb_gonderici</value>
+  </data>
+  <data name="&gt;&gt;btn_sifrele.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="grb_gonderici.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 15pt, style=Bold</value>
+  </data>
+  <data name="grb_gonderici.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 20</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="grb_gonderici.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 3, 2, 3</value>
+  </data>
+  <data name="grb_gonderici.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 3, 2, 3</value>
+  </data>
+  <data name="grb_gonderici.Size" type="System.Drawing.Size, System.Drawing">
+    <value>342, 322</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="grb_gonderici.TabIndex" type="System.Int32, mscorlib">
+    <value>27</value>
+  </data>
+  <data name="grb_gonderici.Text" xml:space="preserve">
+    <value>Gönderici</value>
+  </data>
+  <data name="&gt;&gt;grb_gonderici.Name" xml:space="preserve">
+    <value>grb_gonderici</value>
+  </data>
+  <data name="&gt;&gt;grb_gonderici.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;grb_gonderici.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;grb_gonderici.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
   <data name="txt_sifrelemeSonuc.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 10pt, style=Bold</value>
   </data>
   <data name="txt_sifrelemeSonuc.Location" type="System.Drawing.Point, System.Drawing">
     <value>144, 211</value>
   </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="txt_sifrelemeSonuc.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 3, 2, 3</value>
   </data>
   <data name="txt_sifrelemeSonuc.Size" type="System.Drawing.Size, System.Drawing">
     <value>184, 23</value>
   </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="txt_sifrelemeSonuc.TabIndex" type="System.Int32, mscorlib">
     <value>26</value>
   </data>
@@ -393,180 +534,6 @@
   <data name="&gt;&gt;btn_sifrele.ZOrder" xml:space="preserve">
     <value>8</value>
   </data>
-  <data name="grb_gonderici.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 15pt, style=Bold</value>
-  </data>
-  <data name="grb_gonderici.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 20</value>
-  </data>
-  <data name="grb_gonderici.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 3, 2, 3</value>
-  </data>
-  <data name="grb_gonderici.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 3, 2, 3</value>
-  </data>
-  <data name="grb_gonderici.Size" type="System.Drawing.Size, System.Drawing">
-    <value>342, 322</value>
-  </data>
-  <data name="grb_gonderici.TabIndex" type="System.Int32, mscorlib">
-    <value>27</value>
-  </data>
-  <data name="grb_gonderici.Text" xml:space="preserve">
-    <value>Gönderici</value>
-  </data>
-  <data name="&gt;&gt;grb_gonderici.Name" xml:space="preserve">
-    <value>grb_gonderici</value>
-  </data>
-  <data name="&gt;&gt;grb_gonderici.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;grb_gonderici.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;grb_gonderici.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;txt_cozulmusMetin.Name" xml:space="preserve">
-    <value>txt_cozulmusMetin</value>
-  </data>
-  <data name="&gt;&gt;txt_cozulmusMetin.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;txt_cozulmusMetin.Parent" xml:space="preserve">
-    <value>grb_alici</value>
-  </data>
-  <data name="&gt;&gt;txt_cozulmusMetin.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;label2.Name" xml:space="preserve">
-    <value>label2</value>
-  </data>
-  <data name="&gt;&gt;label2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
-    <value>grb_alici</value>
-  </data>
-  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;txt_a_cozulmus_ascii.Name" xml:space="preserve">
-    <value>txt_a_cozulmus_ascii</value>
-  </data>
-  <data name="&gt;&gt;txt_a_cozulmus_ascii.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;txt_a_cozulmus_ascii.Parent" xml:space="preserve">
-    <value>grb_alici</value>
-  </data>
-  <data name="&gt;&gt;txt_a_cozulmus_ascii.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;label3.Name" xml:space="preserve">
-    <value>label3</value>
-  </data>
-  <data name="&gt;&gt;label3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
-    <value>grb_alici</value>
-  </data>
-  <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;txt_a_cozumSonuc.Name" xml:space="preserve">
-    <value>txt_a_cozumSonuc</value>
-  </data>
-  <data name="&gt;&gt;txt_a_cozumSonuc.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;txt_a_cozumSonuc.Parent" xml:space="preserve">
-    <value>grb_alici</value>
-  </data>
-  <data name="&gt;&gt;txt_a_cozumSonuc.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;lbl_cozumSonuc.Name" xml:space="preserve">
-    <value>lbl_cozumSonuc</value>
-  </data>
-  <data name="&gt;&gt;lbl_cozumSonuc.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lbl_cozumSonuc.Parent" xml:space="preserve">
-    <value>grb_alici</value>
-  </data>
-  <data name="&gt;&gt;lbl_cozumSonuc.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;txt_a_sifreliMetin.Name" xml:space="preserve">
-    <value>txt_a_sifreliMetin</value>
-  </data>
-  <data name="&gt;&gt;txt_a_sifreliMetin.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;txt_a_sifreliMetin.Parent" xml:space="preserve">
-    <value>grb_alici</value>
-  </data>
-  <data name="&gt;&gt;txt_a_sifreliMetin.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="&gt;&gt;label7.Name" xml:space="preserve">
-    <value>label7</value>
-  </data>
-  <data name="&gt;&gt;label7.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label7.Parent" xml:space="preserve">
-    <value>grb_alici</value>
-  </data>
-  <data name="&gt;&gt;label7.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="&gt;&gt;btn_coz.Name" xml:space="preserve">
-    <value>btn_coz</value>
-  </data>
-  <data name="&gt;&gt;btn_coz.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btn_coz.Parent" xml:space="preserve">
-    <value>grb_alici</value>
-  </data>
-  <data name="&gt;&gt;btn_coz.ZOrder" xml:space="preserve">
-    <value>8</value>
-  </data>
-  <data name="grb_alici.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 15pt, style=Bold</value>
-  </data>
-  <data name="grb_alici.Location" type="System.Drawing.Point, System.Drawing">
-    <value>378, 20</value>
-  </data>
-  <data name="grb_alici.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 3, 2, 3</value>
-  </data>
-  <data name="grb_alici.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 3, 2, 3</value>
-  </data>
-  <data name="grb_alici.Size" type="System.Drawing.Size, System.Drawing">
-    <value>342, 322</value>
-  </data>
-  <data name="grb_alici.TabIndex" type="System.Int32, mscorlib">
-    <value>28</value>
-  </data>
-  <data name="grb_alici.Text" xml:space="preserve">
-    <value>Alıcı</value>
-  </data>
-  <data name="&gt;&gt;grb_alici.Name" xml:space="preserve">
-    <value>grb_alici</value>
-  </data>
-  <data name="&gt;&gt;grb_alici.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;grb_alici.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;grb_alici.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
   <data name="txt_cozulmusMetin.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 10pt, style=Bold</value>
   </data>
@@ -823,7 +790,7 @@
     <value>14</value>
   </data>
   <data name="btn_coz.Text" xml:space="preserve">
-    <value>Metni Çöz</value>
+    <value>Şifreyi Çöz</value>
   </data>
   <data name="&gt;&gt;btn_coz.Name" xml:space="preserve">
     <value>btn_coz</value>
@@ -836,6 +803,39 @@
   </data>
   <data name="&gt;&gt;btn_coz.ZOrder" xml:space="preserve">
     <value>8</value>
+  </data>
+  <data name="grb_alici.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 15pt, style=Bold</value>
+  </data>
+  <data name="grb_alici.Location" type="System.Drawing.Point, System.Drawing">
+    <value>378, 20</value>
+  </data>
+  <data name="grb_alici.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 3, 2, 3</value>
+  </data>
+  <data name="grb_alici.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 3, 2, 3</value>
+  </data>
+  <data name="grb_alici.Size" type="System.Drawing.Size, System.Drawing">
+    <value>342, 322</value>
+  </data>
+  <data name="grb_alici.TabIndex" type="System.Int32, mscorlib">
+    <value>28</value>
+  </data>
+  <data name="grb_alici.Text" xml:space="preserve">
+    <value>Alıcı</value>
+  </data>
+  <data name="&gt;&gt;grb_alici.Name" xml:space="preserve">
+    <value>grb_alici</value>
+  </data>
+  <data name="&gt;&gt;grb_alici.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;grb_alici.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;grb_alici.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>

@@ -73,6 +73,7 @@
             // 
             resources.ApplyResources(this.txt_sifrelemeSonuc, "txt_sifrelemeSonuc");
             this.txt_sifrelemeSonuc.Name = "txt_sifrelemeSonuc";
+            this.txt_sifrelemeSonuc.ReadOnly = true;
             // 
             // lbl_sifrelemeSonucu
             // 
@@ -84,11 +85,13 @@
             // 
             resources.ApplyResources(this.txt_ascii0, "txt_ascii0");
             this.txt_ascii0.Name = "txt_ascii0";
+            this.txt_ascii0.ReadOnly = true;
             // 
             // txt_ascii
             // 
             resources.ApplyResources(this.txt_ascii, "txt_ascii");
             this.txt_ascii.Name = "txt_ascii";
+            this.txt_ascii.ReadOnly = true;
             // 
             // lbl_ascii
             // 
@@ -151,6 +154,7 @@
             // 
             resources.ApplyResources(this.txt_a_cozulmus_ascii, "txt_a_cozulmus_ascii");
             this.txt_a_cozulmus_ascii.Name = "txt_a_cozulmus_ascii";
+            this.txt_a_cozulmus_ascii.ReadOnly = true;
             // 
             // label3
             // 
@@ -162,6 +166,7 @@
             // 
             resources.ApplyResources(this.txt_a_cozumSonuc, "txt_a_cozumSonuc");
             this.txt_a_cozumSonuc.Name = "txt_a_cozumSonuc";
+            this.txt_a_cozumSonuc.ReadOnly = true;
             // 
             // lbl_cozumSonuc
             // 
