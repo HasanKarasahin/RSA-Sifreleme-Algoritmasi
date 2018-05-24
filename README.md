@@ -9,7 +9,7 @@
 
 	| Genel Anahtarlar | Özel Anahtar  |
 	| :-------------:  | :------------:|
-	|      n,e         | 		d	   |
+	|      n,e         | 	d	   |
 
 ## Sifreleme
 	

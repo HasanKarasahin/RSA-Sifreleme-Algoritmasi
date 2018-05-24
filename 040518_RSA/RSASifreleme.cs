@@ -15,7 +15,6 @@ namespace _040518_RSA
         void anahtarUretimi()
         {
             int p, q, nu;
-            //p =997 ; q = 9973;
             p = 3;q = 37;
             n = p * q;
             nu = (p - 1) * (q - 1);
